@@ -151,3 +151,18 @@ while True:
 
     if not replay():
         break
+
+#Sample Output
+ #  |   |
+#   | O | O
+ #  |   |
+#-----------
+   #|   |
+  # |   |  
+ #  |   |
+#-----------
+#   |   |
+# X | X | X
+#   |   |
+#Congratulations! You have won the game!
+#Do you want to play again? Enter Yes or No: No
